@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Początek eksperymentu: czy to już FIRE?"
 date:   2022-08-17 14:56:45 +0200
 tag: "raport wydatków"
