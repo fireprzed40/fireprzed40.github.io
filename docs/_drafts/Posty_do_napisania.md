@@ -13,6 +13,7 @@ date:   2022-07-05 13:55:19 +0200
  - dywersyfikacja
  - alzheimer, udar, demencja
  - dobry i zły dług
+ - całkowity majątek od początku?
 
 ## Ze stopek i odnośników:
 
