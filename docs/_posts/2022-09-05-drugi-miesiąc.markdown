@@ -14,7 +14,7 @@ Przychód w sierpniu (na wykresie kategoria "pensja") to ostatnia faktura za pop
 <iframe markdown="0" title="Podsumowanie przychodów w sierpniu 2022" src="/assets/2022-09-05/przychody-sierpień-2022.html" width="100%" height="450px" frameborder="0"></iframe>
 
 Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku[^6]. Sierpniowe wydatki przewyższyły przychód o 10 000 zł. Spadek wartości inwestycji dołożył się nieco do tej straty i sierpień kończę z wynikiem -6 000 zł. Zaraz, co? Aha - 1 września EUR/PLN warte jest minimalnie więcej, niż było 1 sierpnia, to niweluje część spadków. Wyjaśnienie: między styczniem a marcem widać duży wzrost zadłużenia - to pożyczka pod zastaw ETFów. Chwila, kiedy giełdy miały małe tąpnięcie, bo Putin zaczął zbierać armię na granicy, a ja myślałem, że na tym się skończy, i dokupiłem akcji pod korek. No cóż.
-<iframe markdown="0" title="Podsumowanie przychodów w sierpniu 2022" src="/assets/2022-09-05/całkowity-majątek-sierpień-2022.html" width="100%" height="450px" frameborder="0"></iframe>
+<iframe markdown="0" title="Podsumowanie majątku w sierpniu 2022" src="/assets/2022-09-05/całkowity-majątek-sierpień-2022.html" width="100%" height="450px" frameborder="0"></iframe>
 
 Jeszcze krótko o wojnie: od rozpoczęcia inwazji Rosji na Ukrainę nie dołożyłem nic do moich oszczędności. Cała nadwyżka przychodu przekazywana była organizacjom wspierającym obronę Ukrainy i jej ludność. W sierpniu (wspomniany koniec kontraktu i zmniejszone przez to przychody) to była tylko niewielka kwota, ale od lutego na ten cel przekazałem w sumie 45 500 zł.
 
