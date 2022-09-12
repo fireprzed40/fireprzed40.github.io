@@ -1,10 +1,15 @@
 ---
 layout: single
-title:  "Drugi miesiąc: podsumowanie sierpnia"
-date:   2022-09-05 13:55:19 +0200
-tag: "raport wydatków"
+title:  "Czym jest FIRE?"
+date:   2022-09-12 17:10:00 +0200
+tags: definicje filozofia
+excerpt: "FIRE to zagadnienie wałkowane w angielskojęzycznym internecie od lat, ale w Polsce niezależność finansowa pozostaje obcym tematem."
+header:
+  overlay_image: /assets/2022-09-12/buzz-andersen-E4944K_4SvI-unsplash.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Buzz Andersen @ Unsplash**](https://unsplash.com/@ldandersen)"
 ---
-Drugi miesiąc eksperymentu (i pierwszy z limitem wydatków): czy to już może [FIRE][2]? W sierpniu moje inwestycje[^8] oddały część zysków z lipca, ale mniej, niż można by się było spodziewać. Licząc w euro, mój osobisty wynik za sierpień to **-1.98%**. W Europie rynkami zachwiały informacje o rozpoczynającej się kontrofensywie w Ukrainie, inflacja jest też nadal wkalkulowywana w wyceny - wygląda na to, że mimo, iż ceny energii (ropa/gaz/etc.) w miarę się już ustabilizowały, to jednak skutki ich wzrostu do poziomu sprzed poprzedniej inwazji Rosji (na Krym w 2014) nadal nie są jeszcze w pełni wycenione dla wszystkich sektorów. Z dobrych informacji, mimo wyłączenia kolejnych gazociągów pomiędzy Rosją a Europą, magazyny gazu są w większości wypełnione do planowanych poziomów. To może pozwolić uniknąć szoku cenowego zimą.
+Drugi miesiąc eksperymentu (i pierwszy z limitem wydatków): czy to już może FIRE[^2]? W sierpniu moje inwestycje[^8] oddały część zysków z lipca, ale mniej, niż można by się było spodziewać. Licząc w euro, mój osobisty wynik za sierpień to **-1.98%**. W Europie rynkami zachwiały informacje o rozpoczynającej się kontrofensywie w Ukrainie, inflacja jest też nadal wkalkulowywana w wyceny - wygląda na to, że mimo, iż ceny energii (ropa/gaz/etc.) w miarę się już ustabilizowały, to jednak skutki ich wzrostu do poziomu sprzed poprzedniej inwazji Rosji (na Krym w 2014) nadal nie są jeszcze w pełni wycenione dla wszystkich sektorów. Z dobrych informacji, mimo wyłączenia kolejnych gazociągów pomiędzy Rosją a Europą, magazyny gazu są w większości wypełnione do planowanych poziomów. To może pozwolić uniknąć szoku cenowego zimą.
 [![Wyniki inwestycji (w EUR) w sierpniu 2022](/assets/2022-09-05/wyniki-inwestycji-sierpień-2022_s.png)](/assets/2022-09-05/wyniki-inwestycji-sierpień-2022.png)
 
 Wartość moich inwestycji to aktualnie 1 947 000 zł. Zgodnie z uproszczoną zasadą 4%[^1], na wydatki w kolejnym miesiącu mogę przeznaczyć 6490 zł i tyle przelałem na ROR. Podsumowanie pełnych wydatków (29 235 zł) z sierpnia sugeruje, że chyba na głowę upadłem jeśli wydaje mi się, że to się domyka, ale... Jest szansa, że ograniczenie dostępności pieniędzy na ROR wpłynie na zmniejszenie wydatków[^3]. Skończyły się (prawie) duże wydatki podatkowe - to nie jest tak naprawdę dobra wiadomość, tylko koniec kontraktu. O dziwo na ROR, mimo bardzo ograniczonego zasilenia, nie było w sierpniu debetu: te wydatki płyną z innych rachunków. Część to moja kreatywna księgowość, jak to określa znajomy (czyli nie traktowanie niektórych nakładów finansowych jako wydatków, jeśli np. zwiększają wartość nieruchomości), część to fakt, że ten wykres uwzględnia też wydatki firmowe/biurowe... Muszę się temu dokładniej przyjrzeć.
@@ -19,7 +24,7 @@ Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartoś�
 Jeszcze krótko o wojnie: od rozpoczęcia inwazji Rosji na Ukrainę nie dołożyłem nic do moich oszczędności. Cała nadwyżka przychodu przekazywana była organizacjom wspierającym obronę Ukrainy i jej ludność. W sierpniu (wspomniany koniec kontraktu i zmniejszone przez to przychody) to była tylko niewielka kwota, ale od lutego na ten cel przekazałem w sumie 45 500 zł.
 
 [^1]: O zasadzie 4% będzie później.
-[2]: {% post_url 2022-09-12-czym-jest-fire %}
+[^2]: Czym jest FIRE? O tym będzie później.
 [^3]: Jak liczę wydatki? O tym będzie później.
 [^4]: Zdaję sobie sprawę, jak absurdalnie to brzmi dla 99% mieszkających w Polsce. O tym będzie później.
 [^5]: Jak/gdzie trzymać oszczędności? O tym będzie później.

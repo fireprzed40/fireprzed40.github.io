@@ -17,7 +17,6 @@ date:   2022-07-05 13:55:19 +0200
 
 ## Ze stopek i odnośników:
 
- - Czym jest FIRE? O tym będzie później.
  - W co inwestuję? O tym będzie później.
  - O zasadzie 4% będzie później.
  - Jak liczę wydatki? O tym będzie później.
