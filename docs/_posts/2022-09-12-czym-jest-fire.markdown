@@ -21,7 +21,7 @@ Dłuższą chwilę nie działo się nic (pomijając bańkę internetową która 
 
 Zaostrzający się kryzys finansowy wiele osób pchnął do szukania innych pomysłów na życie niż praca do późnej sześćdziesiątki. Jednym z nich był Mr. Money Mustache, Peter Adeney, który skończył pracować w wieku 30 lat. Jego post [The Shockingly Simple Math Behind Early Retirement][2] dla bardzo wielu osób jest punktem startowym, poniekąd objawieniem, od którego zaczynają liczyć i planować swoją niezależnośc finansową. Prezentuje podstawowe założenia matematyczne stojące za całą koncepcją oszczędzania, by uzyskać niezależność finansową.
 
-Po polsku, niestety, nikt o temacie nie pisze więcej niż tylko krótkich artykułów. Ostatnio pojawiło się kilka wzmianek na niektórych blogach, ale nie ma nikogo, kto publikował by swoje własne doświadczenia, brak społeczności. Tą lukę chciałbym zapełnić. Moim planem jest osiągnąć FIRE przed 40stymi urodzinami, czyli już niedługo. Napiszę też dokładnie, jak wyglądała moja droga do tego miejsca.
+Po polsku, niestety, nikt o temacie nie pisze więcej niż tylko krótkich artykułów. Ostatnio pojawiło się kilka wzmianek na niektórych blogach, ale nie ma nikogo, kto publikował by swoje własne doświadczenia, brak społeczności. Tę lukę chciałbym zapełnić. Moim planem jest osiągnąć FIRE przed 40stymi urodzinami, czyli już niedługo. Napiszę też dokładnie, jak wyglądała moja droga do tego miejsca.
 
 Czyli jeszcze raz, prosto, jak dojść do FIRE, czyli niezależności finansowej? Poprzez kontrolę wydatków (będzie o narzędziach do planowania budżetu[^3] i konsumeryzmie), poprzez planowanie i rozwój kariery, do momentu, gdy inwestycje[^8] wystarczą, by w bezpieczny sposób pokryć codzienne i niecodzienne wydatki.
 
