@@ -18,7 +18,6 @@ date:   2022-07-05 13:55:19 +0200
 ## Ze stopek i odnośników:
 
  - W co inwestuję? O tym będzie później.
- - O zasadzie 4% będzie później.
  - Jak liczę wydatki? O tym będzie później.
  - Zdaję sobie sprawę, jak absurdalnie to brzmi dla 99% mieszkających w Polsce. O tym będzie później.
  - Jak/gdzie trzymać oszczędności? O tym będzie później.
