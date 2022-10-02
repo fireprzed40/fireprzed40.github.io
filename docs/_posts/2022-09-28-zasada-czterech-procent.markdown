@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/2022-09-28/jonas-msuj3PtW5fk-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Jonas @ Unsplash**](https://unsplash.com/@jonason_b)"
+  teaser: /assets/2022-09-28/jonas-msuj3PtW5fk-unsplash_s.jpg
 ---
 W **1998** trzech profesorów z Uniwersytetu Trinity w Teksasie:  Philip L. Cooley, Carl M. Hubbard i Daniel T. Walz; opublikowało artykuł analizujący [teoretyczne wyniki portfolio emerytalnych na podstawie danych historycznych z lat 1926-1995 z USA][3]. Dokument jest krótki, raptem 6 stron, i warto go przeczytać, a przynajmniej zapoznać się z wnioskami końcowymi: dla portfolio składającego się głównie z akcji[^5] i horyzontu czasowego 30 lat, wypłaty na poziomie 4% początkowej wartości inwestycji rocznie oznaczają, z prawdopodobieństwem 98%, że pieniądze nie tylko się nie skończą, ale będzie ich pod koniec rozpatrywanego okresu znacząco więcej.
 

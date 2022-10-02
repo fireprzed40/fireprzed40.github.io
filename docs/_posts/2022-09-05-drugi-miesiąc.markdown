@@ -3,6 +3,8 @@ layout: single
 title:  "Drugi miesiąc: podsumowanie sierpnia"
 date:   2022-09-05 13:55:19 +0200
 tag: "raport wydatków"
+header:
+    teaser: /assets/2022-09-05/wyniki-inwestycji-sierpień-2022_s.png
 ---
 Drugi miesiąc eksperymentu (i pierwszy z limitem wydatków): czy to już może [FIRE][2]? W sierpniu moje inwestycje[^8] oddały część zysków z lipca, ale mniej, niż można by się było spodziewać. Licząc w euro, mój osobisty wynik za sierpień to **-1.98%**. W Europie rynkami zachwiały informacje o rozpoczynającej się kontrofensywie w Ukrainie, inflacja jest też nadal wkalkulowywana w wyceny - wygląda na to, że mimo, iż ceny energii (ropa/gaz/etc.) w miarę się już ustabilizowały, to jednak skutki ich wzrostu do poziomu sprzed poprzedniej inwazji Rosji (na Krym w 2014) nadal nie są jeszcze w pełni wycenione dla wszystkich sektorów. Z dobrych informacji, mimo wyłączenia kolejnych gazociągów pomiędzy Rosją a Europą, magazyny gazu są w większości wypełnione do planowanych poziomów. To może pozwolić uniknąć szoku cenowego zimą.
 [![Wyniki inwestycji (w EUR) w sierpniu 2022](/assets/2022-09-05/wyniki-inwestycji-sierpień-2022_s.png)](/assets/2022-09-05/wyniki-inwestycji-sierpień-2022.png)
