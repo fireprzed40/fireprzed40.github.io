@@ -3,6 +3,8 @@ layout: single
 title:  "Początek eksperymentu: czy to już FIRE?"
 date:   2022-08-17 14:56:45 +0200
 tag: "raport wydatków"
+header:
+    teaser: /assets/2022-08-17/wyniki-inwestycji-lipiec-2022_s.png
 ---
 Eksperyment zaczyna się w tym momencie: czy to już może [FIRE][2]? W lipcu wartość moich inwestycji[^8] odrobiła straty - rok do roku jest na zero (niestety poniżej rosnącej szybko inflacji). Sytuacja światowa zdaje się - no nie poprawiać jeszcze, ale przynajmniej stabilizować. Rynki wiedzą (chyba) czego się dalej spodziewać, co może (ale nie musi) oznaczać koniec spadków. Licząc w euro, wynik miesiąca: wzrost o **10.20%**. Z tego nietrywialna część to spadek wartości walut europejskich do dolara, ale ćśś - Europa jest moim miejscem zamieszkania i głównym rynkiem odniesienia i tego będę się trzymać.
 [![Wyniki inwestycji (w EUR) w lipcu 2022](/assets/2022-08-17/wyniki-inwestycji-lipiec-2022_s.png)](/assets/2022-08-17/wyniki-inwestycji-lipiec-2022.png)

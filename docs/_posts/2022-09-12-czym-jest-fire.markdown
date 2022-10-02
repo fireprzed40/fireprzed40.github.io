@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/2022-09-12/buzz-andersen-E4944K_4SvI-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Buzz Andersen @ Unsplash**](https://unsplash.com/@ldandersen)"
+  teaser: /assets/2022-09-12/buzz-andersen-E4944K_4SvI-unsplash_s.jpg
 ---
 Akronim rozwijany jest jako *Financial Independence, Retire Early*. Nawiązuje do angielskiego eufemizmu *a gentleman of independent means*, oznaczającego mężczyznę nie skalanego pracą (fizyczną, przede wszystkim - ten idiom ma bardzo silne konotacje klasowe) ale też posiadającego niezależne zasoby finansowe. Niezależne, czyli inwestycje dające zyski wystarczające na jego wraz z rodziną potrzeby. Część druga skrótowca, *Retire Early*, czyli wczesna emerytura, wzbudza chyba najwięcej emocji w dyskusjach. Co będziesz potem robić? Zanudzisz się na śmierć! Nie będziesz spotykać ludzi[^9]! Etc.
 
