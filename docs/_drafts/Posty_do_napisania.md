@@ -9,7 +9,6 @@ date:   2022-07-05 13:55:19 +0200
  - porozmawiaj z rodzicami o testamencie
  - po co ci ubezpieczenie
  - brokerzy dla polskich klientów
- - bibliografia - Samcik napisał o FIRE! https://subiektywnieofinansach.pl/niezaleznosc-finansowa-czym-jest-i-jak-ja-osiagnac/
  - dywersyfikacja
  - alzheimer, udar, demencja
  - dobry i zły dług
