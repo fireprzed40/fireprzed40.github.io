@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Trzeci miesiąc: podsumowanie września"
-date:   2022-10-04 19:10:19 +0200
+date:   2022-10-06 19:10:19 +0200
 tag: "raport wydatków"
 header:
     teaser: /assets/2022-10-06/wyniki-inwestycji-wrzesień-2022_s.png
