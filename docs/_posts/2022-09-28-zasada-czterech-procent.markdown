@@ -14,7 +14,7 @@ W **1998** trzech profesorów z Uniwersytetu Trinity w Teksasie:  Philip L. Coo
 
 Traktując sprawy w dużym skrócie, ruch [FIRE][2] wyciągnął z badania wniosek, że uzbieranie oszczędności w wysokości 25 krotności rocznych wydatków oznacza pełną niezależność finansową.
 
-Czyli, hipotetycznie, jeśli moje wydatki[^3] miesięczne wynoszą średnio 6500 zł, a roczne - 78 000 zł, to inwestycje[^8] w kwocie 1&nbsp;950&nbsp;000&nbsp;zł wystarczą, żeby pokryć moje wydatki na zawsze.
+Czyli, hipotetycznie, jeśli moje wydatki[^3] miesięczne wynoszą średnio 6500 zł, a roczne - 78 000 zł, to [inwestycje][8] w kwocie 1&nbsp;950&nbsp;000&nbsp;zł wystarczą, żeby pokryć moje wydatki na zawsze.
 
 Jest to użyteczna heurystyka, chociaż pomija lub po prostu ignoruje wiele założeń oryginalnego badania.
 
@@ -36,7 +36,6 @@ No dobrze, a jak często tę wypłatę realizować (i aktualizować jej wysokoś
 
 [^3]: Jak liczę wydatki? O tym będzie później.
 [^5]: Jak/gdzie trzymać oszczędności? O tym będzie później.
-[^8]: W co inwestuję? O tym będzie później.
 
 [2]: {% post_url 2022-09-12-czym-jest-fire %}
 [3]: https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf
@@ -44,3 +43,4 @@ No dobrze, a jak często tę wypłatę realizować (i aktualizować jej wysokoś
 [5]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-tablicy-sredniego-dalszego-trwania-zycia-kobiet-i-mezczyzn,285,10.html
 [6]: https://ofdollarsanddata.com/sell-slowly/
 [7]: https://cfiresim.com/
+[8]: {% post_url 2022-10-26-w-co-inwestuję %}

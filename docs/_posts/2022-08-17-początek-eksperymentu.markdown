@@ -6,7 +6,7 @@ tag: "raport wydatków"
 header:
     teaser: /assets/2022-08-17/wyniki-inwestycji-lipiec-2022_s.png
 ---
-Eksperyment zaczyna się w tym momencie: czy to już może [FIRE][2]? W lipcu wartość moich inwestycji[^8] odrobiła straty - rok do roku jest na zero (niestety poniżej rosnącej szybko inflacji). Sytuacja światowa zdaje się - no nie poprawiać jeszcze, ale przynajmniej stabilizować. Rynki wiedzą (chyba) czego się dalej spodziewać, co może (ale nie musi) oznaczać koniec spadków. Licząc w euro, wynik miesiąca: wzrost o **10.20%**. Z tego nietrywialna część to spadek wartości walut europejskich do dolara, ale ćśś - Europa jest moim miejscem zamieszkania i głównym rynkiem odniesienia i tego będę się trzymać.
+Eksperyment zaczyna się w tym momencie: czy to już może [FIRE][2]? W lipcu wartość [moich inwestycji][8] odrobiła straty - rok do roku jest na zero (niestety poniżej rosnącej szybko inflacji). Sytuacja światowa zdaje się - no nie poprawiać jeszcze, ale przynajmniej stabilizować. Rynki wiedzą (chyba) czego się dalej spodziewać, co może (ale nie musi) oznaczać koniec spadków. Licząc w euro, wynik miesiąca: wzrost o **10.20%**. Z tego nietrywialna część to spadek wartości walut europejskich do dolara, ale ćśś - Europa jest moim miejscem zamieszkania i głównym rynkiem odniesienia i tego będę się trzymać.
 [![Wyniki inwestycji (w EUR) w lipcu 2022](/assets/2022-08-17/wyniki-inwestycji-lipiec-2022_s.png)](/assets/2022-08-17/wyniki-inwestycji-lipiec-2022.png)
 
 Wartość moich inwestycji to aktualnie 1 980 000 zł. Zgodnie z uproszczoną [zasadą 4%][1], na wydatki w kolejnym miesiącu mogę przeznaczyć 6600 zł i tyle przelałem na ROR. Podsumowanie pełnych wydatków (45 117 zł) z lipca sugeruje, że chyba na głowę upadłem jeśli wydaje mi się, że to się domyka, ale... Jest szansa, że ograniczenie dostępności pieniędzy na ROR wpłynie na zmniejszenie wydatków[^3]. Do tego wydatki podatkowe właśnie się skończyły, bo skończył się też kontrakt. Duże wydatki na samochód też nie są czymś, co się będzie powtarzać co miesiąc: to opłacone w lipcu roczne ubezpieczenie AC, plus duży przegląd, plus koszty wyjazdu wakacyjnego do Włoch.
@@ -27,4 +27,4 @@ Jeszcze krótko o wojnie: od rozpoczęcia inwazji Rosji na Ukrainę nie dołoży
 [^5]: Jak/gdzie trzymać oszczędności? O tym będzie później.
 [^6]: Jak to śledzę? O tym będzie później.
 [^7]: Jak się tutaj znalazłem i jak to się zaczęło? Zgadliście: o tym będzie później.
-[^8]: W co inwestuję? O tym będzie później.
+[8]: {% post_url 2022-10-26-w-co-inwestuję %}

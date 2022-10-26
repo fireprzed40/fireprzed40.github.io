@@ -1,14 +1,14 @@
 ---
 layout: single
-title:  "Czym jest FIRE?"
-date:   2022-09-12 17:10:00 +0200
+title:  "W co inwestuję"
+date:   2022-10-26 15:15:00 +0200
 tags: definicje filozofia
 excerpt: "FIRE to zagadnienie wałkowane w angielskojęzycznym internecie od lat, ale w polskiej sieci niezależność finansowa pozostaje obcym tematem."
 header:
-  overlay_image: /assets/2022-09-12/buzz-andersen-E4944K_4SvI-unsplash.jpg
+  overlay_image: /assets/2022-10-26/elizabeth-kay-9szCcOw4BWo-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Buzz Andersen @ Unsplash**](https://unsplash.com/@ldandersen)"
-  teaser: /assets/2022-09-12/buzz-andersen-E4944K_4SvI-unsplash_s.jpg
+  caption: "Photo credit: [**Elizabeth Kay @ Unsplash**](https://unsplash.com/@elizabeth_kay)"
+  teaser: /assets/2022-10-26/elizabeth-kay-9szCcOw4BWo-unsplash_s.jpg
 ---
 Akronim rozwijany jest jako *Financial Independence, Retire Early*. Nawiązuje do angielskiego eufemizmu *a gentleman of independent means*, oznaczającego mężczyznę nie skalanego pracą (fizyczną, przede wszystkim - ten idiom ma bardzo silne konotacje klasowe) ale też posiadającego niezależne zasoby finansowe. Niezależne, czyli inwestycje dające zyski wystarczające na jego wraz z rodziną potrzeby. Część druga skrótowca, *Retire Early*, czyli wczesna emerytura, wzbudza chyba najwięcej emocji w dyskusjach. Co będziesz potem robić? Zanudzisz się na śmierć! Nie będziesz spotykać ludzi[^9]! Etc.
 
@@ -24,11 +24,11 @@ Zaostrzający się kryzys finansowy wiele osób pchnął do szukania innych pomy
 
 Po polsku, niestety, nikt o temacie nie pisze więcej niż tylko krótkich artykułów. Ostatnio pojawiło się kilka wzmianek na niektórych blogach, ale nie ma nikogo, kto publikował by swoje własne doświadczenia, brak społeczności. Tę lukę chciałbym zapełnić. Moim planem jest osiągnąć FIRE przed 40stymi urodzinami, czyli już niedługo. Napiszę też dokładnie, jak wyglądała moja droga do tego miejsca.
 
-Czyli jeszcze raz, prosto, jak dojść do FIRE, czyli niezależności finansowej? Poprzez kontrolę wydatków (będzie o narzędziach do planowania budżetu[^3] i konsumeryzmie), poprzez planowanie i rozwój kariery, do momentu, gdy [inwestycje][8] wystarczą, by w bezpieczny sposób pokryć codzienne i niecodzienne wydatki.
+Czyli jeszcze raz, prosto, jak dojść do FIRE, czyli niezależności finansowej? Poprzez kontrolę wydatków (będzie o narzędziach do planowania budżetu[^3] i konsumeryzmie), poprzez planowanie i rozwój kariery, do momentu, gdy inwestycje[^8] wystarczą, by w bezpieczny sposób pokryć codzienne i niecodzienne wydatki.
 
 [^3]: Jak liczę wydatki? O tym będzie później.
 [^7]: Jak się tutaj znalazłem i jak to się zaczęło? Zgadliście: o tym będzie później.
-[8]: {% post_url 2022-10-26-w-co-inwestuję %}
+[^8]: W co inwestuję? O tym będzie później.
 [^9]: Te psychologiczne zastrzeżenia są istotne - warto się nad nimi później pochylić.
 
 [1]: https://earlyretirementextreme.com/why-financial-independence-part-i-early-motivations.html
