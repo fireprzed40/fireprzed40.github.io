@@ -6,25 +6,16 @@ tag: "raport wydatków"
 header:
     teaser: /assets/2023-01-18/wyniki-inwestycji-rok-2022_s.png
 ---
-Październik odrobił część strat z poprzednich miesięcy. Zgodnie z raportem z rachunku brokerskiego w euro, mój wynik to **6.08%**, całkiem miło. Podsumowanie wszystkich aktywów, w tym różnych kont emerytalnych, daje w sumie **4.52%** na plusie, nadal przyjemnie. Wydaje mi się, że wpływ na uspokojenie (częściowe) rynków miało zapełnienie europejskich magazynów gazu (ceny są nadal wysokie, ale wróciły do poziomu sprzed lutego) i nieco lepsze wieści ze Stanów. Co prawda inflacja w USA w poprzednim miesiącu wyniosła 8.5%, o 0.3 punktu procentowego więcej, niż przewidywali analitycy (a ten odczyt odbił się gwałtownym natychmiastowym spadkiem na giełdzie), ale jest to pewna stabilizacja. [FED][10] podniósł stopy, rynek miał nadzieję, że może to już koniec (ta nadzieja pękła na początku listopada, ale ćśś). Zobaczymy co dalej. Do [FIRE][2] mi jeszcze daleko, parę solidnych kryzysów po drodze pewnie jeszcze zobaczę. W tym ten obecny.
+Czas leci. W listopadzie byłem na krótkich wakacjach, w trakcie dowiedziałem się, że mam nowy kontrakt, więc grudzień był miesiącem... odpoczynku przed nadchodzącą pracą. I porządkowania różnych spraw. W każdym razie nie znalazłem czasu, by cokolwiek napisać. Pora by zrobić przynajmniej podsumowanie roku. To może tym razem w innej formule niż podsumowania miesięczne. Najpierw arkusz inwestycji: licząc w Euro, wynik roku dla mnie to **-7.17%**.
 [![Wyniki inwestycji (w EUR) w roku 2022](/assets/2023-01-18/wyniki-inwestycji-rok-2022_s.png)](/assets/2023-01-18/wyniki-inwestycji-rok-2022.png)
 
-Wartość [moich inwestycji][8] to aktualnie 1 822 699 zł. Zgodnie z uproszczoną [zasadą 4%][1], na wydatki w kolejnym miesiącu mogę przeznaczyć 6014 zł i tyle przelałem na ROR. Wydatki[^3] w październiku wyniosły 23 735 zł, znacząco więcej - szukałem w październiku dodatkowych oszczędności i nie za bardzo udało się je znaleźć. Chociaż, może trochę inaczej: z tych wydatków te 3 700 zł w kategorii rozrywka to wcześniej zarezerwowany wyjazd. Gdyby nie to, zaplanowane 3 000 zł mniej niż we wrześniu udało by się zrealizować. Pies był trzy razy u weterynarza, kupiliśmy zapas karmy: od razu pękły trzy tysiące. W kategorii biuro kilka dorocznych wydatków na oprogramowanie też dobrze podbiło całość bilansu. To naprawdę był w miarę oszczędny miesiąc. Może jeszcze paliwo, 1 200 zł w tym miesiącu, jest czymś do zredukowania.
+Na wydatki w 2022 poszło 586 tysięcy złotych. Z tego 289 tysięcy to podatki, gdybym ich nie uwzględniał, to średnie miesięczne wydatki wynoszą 24 800 zł. Z tego najmniej udało się wydać w listopadzie, gdzie faktycznie staraliśmy się ściąć, ile się dało — 18 tysięcy zł. W grudniu, na konto nowego kontraktu (to bardzo zły zwyczaj, stanowczo odradzam) kupionych było kilka różnych zachciewajek i od razu wydatki przekroczyły 33 tysiące zł. W stosunku do roku 2021, gdy całkowite wydatki wyniosły 360 tysięcy, a miesięczne bez uwzględnienia podatków — 17 600 zł — to niestety bardzo, bardzo wyraźny trend w górę.
 <iframe markdown="0" title="Podsumowanie wydatków w 2022" src="/assets/2023-01-18/wydatki-2022.html" width="100%" height="450px" frameborder="0"></iframe>
 
-W tym miesiącu przyszły zaległe zwroty podatku z zagranicy. Do tego zwrot kilku wcześniejszych wydatków, jakaś promocja bankowa[^5] na oprocentowanie (dwa dni szperałem gdzie zaparkować aktualnie gotówkę) i po raz pierwszy od kwietnia 2021 miesięczne wydatki prawie zgadzają się z przychodami. Prawie. Zmalał też - minimalnie - współczynnik margin kredytu inwestycyjnego, z 1.31 do 1.30.
+Przychód w 2022 to 422 tysiące złotych. Kategoria „pensja" to faktury z kontraktów, do tego zwrot podatku z zeszłego roku w kwocie 147 tysięcy. Korzystanie z IP Box jest dość dziwne pod tym względem, co miesiąc jest do zapłacenia podatek według pełnej stawki liniowej, dopiero w następnym roku, i to gdzieś w połowie, przychodzi zwrot — duży! — nadpłaty.
 <iframe markdown="0" title="Podsumowanie przychodów w 2022" src="/assets/2023-01-18/przychody-2022.html" width="100%" height="450px" frameborder="0"></iframe>
 
-Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku[^6]. Wrześniowe wydatki przewyższyły przychód o 750 zł. Wzrost wartości inwestycji pokrył taką różnicę ze sporym naddatkiem, całkowity wynik na plusie o 15 900 zł. Natomiast dość daleko ciągle do szczytów z listopada 2021 - brakuje dobre 200 000 zł.
+Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku. Całkowity wynik na koniec roku to 2 527 819 zł, względem początku roku na 2 882 047 zł. Na minusie 354 tysiące złotych, z tego różnica między przychodem a wydatkami odpowiada za 164 tysiące złotych spadku wartości, a za dalsze 190 tysiące odpowiada sytuacja na giełdzie.
 <iframe markdown="0" title="Podsumowanie majątku w 2022" src="/assets/2023-01-18/całkowity-majątek-2022.html" width="100%" height="450px" frameborder="0"></iframe>
 
-[1]: {% post_url 2022-09-28-zasada-czterech-procent %}
-[2]: {% post_url 2022-09-12-czym-jest-fire %}
-[^3]: Jak liczę wydatki? O tym będzie później.
-[^4]: Zdaję sobie sprawę, jak absurdalnie to brzmi dla 99% mieszkających w Polsce. O tym będzie później.
-[^5]: Jak/gdzie trzymać oszczędności? O tym będzie później.
-[^6]: Jak to śledzę? O tym będzie później.
-[^7]: Jak się tutaj znalazłem i jak to się zaczęło? Zgadliście: o tym będzie później.
-[8]: {% post_url 2022-10-26-w-co-inwestuję %}
-[9]: https://en.wikipedia.org/wiki/International_Monetary_Fund
-[10]: https://en.wikipedia.org/wiki/Federal_Reserve
+No dobrze, co z tego?
