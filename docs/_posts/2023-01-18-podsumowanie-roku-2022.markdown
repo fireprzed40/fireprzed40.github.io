@@ -1,0 +1,32 @@
+---
+layout: single
+title:  "Podsumowanie roku 2022"
+date:   2023-01-18 18:00:00 +0100
+tag: "raport wydatków"
+header:
+    teaser: /assets/2023-01-18/wyniki-inwestycji-rok-2022_s.png
+---
+Czas leci. W listopadzie byłem na krótkich wakacjach, w trakcie dowiedziałem się, że mam nowy kontrakt, więc grudzień był miesiącem... odpoczynku przed nadchodzącą pracą. I porządkowania różnych spraw. W każdym razie nie znalazłem czasu, by cokolwiek napisać. Pora by zrobić przynajmniej podsumowanie roku. To może tym razem w innej formule niż podsumowania miesięczne. Najpierw arkusz inwestycji: licząc w Euro, wynik roku dla mnie to **-7.17%**.
+[![Wyniki inwestycji (w EUR) w roku 2022](/assets/2023-01-18/wyniki-inwestycji-rok-2022_s.png)](/assets/2023-01-18/wyniki-inwestycji-rok-2022.png)
+
+Na wydatki w 2022 poszło 586 tysięcy złotych. Z tego 289 tysięcy to podatki, gdybym ich nie uwzględniał, to średnie miesięczne wydatki wynoszą 24 800 zł. Z tego najmniej udało się wydać w listopadzie, gdzie faktycznie staraliśmy się ściąć, ile się dało — 18 tysięcy zł. W grudniu, na konto nowego kontraktu (to bardzo zły zwyczaj, stanowczo odradzam) kupionych było kilka różnych zachciewajek i od razu wydatki przekroczyły 33 tysiące zł. W stosunku do roku 2021, gdy całkowite wydatki wyniosły 360 tysięcy, a miesięczne bez uwzględnienia podatków — 17 600 zł — to niestety bardzo, bardzo wyraźny trend w górę.
+<iframe markdown="0" title="Podsumowanie wydatków w 2022" src="/assets/2023-01-18/wydatki-2022.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Przychód w 2022 to 422 tysiące złotych. Kategoria „pensja" to faktury z kontraktów, do tego zwrot podatku z zeszłego roku w kwocie 147 tysięcy. Korzystanie z IP Box jest dość dziwne pod tym względem, co miesiąc jest do zapłacenia podatek według pełnej stawki liniowej, dopiero w następnym roku, i to gdzieś w połowie, przychodzi zwrot — duży! — nadpłaty.
+<iframe markdown="0" title="Podsumowanie przychodów w 2022" src="/assets/2023-01-18/przychody-2022.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku. Całkowity wynik na koniec roku to 2 527 819 zł, względem początku roku na 2 882 047 zł. Na minusie 354 tysiące złotych, z tego różnica między przychodem a wydatkami odpowiada za 164 tysiące złotych spadku wartości, a za dalsze 190 tysiące odpowiada sytuacja na giełdzie.
+<iframe markdown="0" title="Podsumowanie majątku w 2022" src="/assets/2023-01-18/całkowity-majątek-2022.html" width="100%" height="450px" frameborder="0"></iframe>
+
+No dobrze, co z tego? Po pierwsze, chyba najważniejsze: takie lata zdarzają się w inwestowaniu. Więcej, statystyka (np. [ostatnio publikowane przewidywania przez Vanguard][1]) pokazują, że po tak zwanej korekcie późniejsze wzrosty na rynku są wyraźnie wyższe. Jeśli jesteś na etapie budowania majątku, to trzeba trzymać kurs.
+
+Po drugie, przekonałem się na własnej skórze, jak krytyczne dla całego projektu jest trzymanie wydatków w ryzach. Przy średniej z 2021 co prawda i tak termin, który nadałem sobie w tytule bloga, jest nie do zrealizowania (zostało pół roku), ale  — biorąc obecnie zaczęty kontrakt jako (może optymistycznie) nowy poziom przychodów — symulacja pokazuje "z luzem" zakończenie projektu przed 45 urodzinami. To nadal, powiedzmy sobie szczerze, bardzo wcześnie. Przy nowym poziomie wydatków ustalonym w 2022 najwcześniejsza data wychodząca z interpolacji liniowej to 48 urodziny.
+
+Gdzie tak wzrosły wydatki? Pomoc charytatywna dla Ukrainy dołożyła największą część, po 3 tysiące miesięcznie dodatkowo. To prawie połowa różnicy między 2021 a 2022. Płatność comiesięczna za pilates za dwie osoby dołożyła po 600 zł na miesiąc, dość, by było to widać. Natomiast biorąc pod uwagę, że za chwilę przekraczamy pewną (może symboliczną) granicę wieku, a przy przerwach w ćwiczeniach od razu łapią mnie jakieś kontuzje — nie jest to coś, z czego bym chciał rezygnować. Pojawiły się wydatki urlopowe, których prawie nie było w 2021  — uśredniając to kolejne 1 500 zł co miesiąc. Dalej, mój eksperyment z użyciem dźwigni do zakupu akcji oznacza (średnio) 750 zł wydatku miesięcznie. Na razie nadal jestem do niego przekonany, ale... nie polecam. W restauracjach w 2022 zostawialiśmy, średnio, 350 zł więcej miesięcznie niż w 2021. To dużo  — zdecydowanie większy skok niż się spodziewałem. Odczuwalna dla nas inflacja  — czyli większe koszty jedzenia i mediów, przede wszystkim gazu  — to tylko 400 zł miesięcznie dodatkowo. Tylko, bo względem średnich miesięcznych wydatków, to raptem wzrost o 2%.
+
+Ach, no i jeszcze samochód. W stosunku miesięcznym, 300 zł więcej za paliwo (12 tysięcy zł rocznie! Naprawdę świerzbi mnie, żeby kupić elektryka). 310 zł miesięcznie więcej za utrzymanie (przeglądy bieżące i wymiana części typu filtry). Oraz przede wszystkim deprecjacja, dodatkowe 1 350 zł miesięcznie. O tyle paradoksalny koszt, że powinien maleć z czasem, a wzrósł, znacząco. Poniekąd to artefakt przyjętego przeze mnie sposobu liczenia wydatków, ale  — w 2021 samochód był jeszcze głównie własnością leasingodawcy, a ja spłacałem kapitał. W 2022 jest już głównie moją własnością, a spłata idzie na pokrycie deprecjacji. Natomiast sama wycena pojazdu — no cóż, pomiędzy cennikiem ubezpieczyciela a ofertą wykupu przez salon (przy oddaniu samochodu w rozliczeniu nowego leasingu) jest aktualnie 19 000 zł różnicy. Tak naprawdę okaże się, ile za niego dostanę, dopiero przy sprzedaży, i wtedy będzie trzeba skorygować te szacunki utraty wartości.
+
+To wyższe wydatki składają się na przewidywane dodatkowe  — przynajmniej!  — trzy lata pracy, ale to nie wszystko. Termin uzyskania niezależności finansowej przesunął się też, ponieważ lata pandemiczne były dla mnie bardzo nietypowe  — jedynie połowę tego okresu spędziłem na płatnych kontraktach. Biorąc pod uwagę, że wcześniej, od rozpoczęcia pracy zarobkowej, przez kilkanaście lat miałem zawsze pracę (czasami nawet na zakładkę, biorąc urlop ze starej pracy, by wcześniej zacząć nową, lepiej płatną), to były to coś, czego nie doświadczyłem od czasu studiów. Całe miesiące wolnego. Przedsmak wolności [FIRE][2]. Taki test, który owszem, był kosztowny (ale rynek naprawdę nie sprzyjał szybszemu znajdowaniu kontraktów), ale upewnił mnie, że nie mam problemu z zagospodarowaniem sobie czasu.
+
+[1]: https://investor.vanguard.com/investor-resources-education/news/4-key-topics-from-our-2023-economic-and-market-outlook
+[2]: {% post_url 2022-09-12-czym-jest-fire %}
