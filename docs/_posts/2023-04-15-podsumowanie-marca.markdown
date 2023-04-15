@@ -1,0 +1,25 @@
+---
+layout: single
+title:  "Podsumowanie marca 2023"
+date:   2023-04-15 18:00:00 +0100
+tag: "raport wydatków"
+header:
+    teaser: /assets/2023-04-15/wyniki-inwestycji-marzec-2023_s.png
+---
+Biorąc pod uwagę panikę odnośnie banków, która była głównym motywem w marcu, to wyniki są zaskakująco dobre. To znaczy, w tym wypadku, że miesiąc jest praktycznie na zero. W EUR, miesiąc do miesiąca, jest **0.09%** w górę. To trochę wynik spadku na samym przełomie lutego-marca (i startu z niższego pułapu). Ale wygląda na to (tfu, tfu), że kryzys bankowy został opanowany — wszystkie agencje państwowe, mając w świeżej pamięci kryzys 2007-2009, uruchomiły bardzo agresywne środki, żeby uspokoić klientów banków. Swoją drogą, okazuje się, że mając kontrakt, ciężko znaleźć czas, by cokolwiek napisać poza pracą. Minął kwartał od poprzedniego artykułu.
+[![Wyniki inwestycji (w EUR) w marcu 2023](/assets/2023-04-15/wyniki-inwestycji-marzec-2023_s.png)](/assets/2023-04-15/wyniki-inwestycji-marzec-2023.png)
+
+Marzec był drugim miesiącem, kiedy z nowego kontrakt wpłynęła faktura (pierwsza była na sam koniec lutego, w sumie bez znaczenia w tamtym miesiącu). Uruchomiło to trochę wydatków, które były odkładane od dłuższego czasu — tak przynajmniej to sobie tłumaczę. Jeszcze ich trochę zostało, zaplanowanych od dwóch lat. Głównym, tak naprawdę, było wcześniejsze zakończenie leasingu samochodu i złożenie zamówienia na elektryka. Na papierze, ten znacząco droższy (dwa razy jako nowy, teraz, względem używanego, ponad trzy razy droższy) pojazd ma pewien sens. Koszt leasingu to w tej chwili jakieś 6%, kilkanaście procent mniej, niż wynosi inflacja, szkoda byłoby nie skorzystać z darmowego pieniądza. A, że samochód to niby nie inwestycja? Patrząc na oferty na używane samochody oraz na dostępne obecnie dotacje ("Mój elektryk", 27 tysięcy złotych), zgadując nieco tempo deprecjacji — wydaje mi się, że zamienię comiesięczne wydatki na paliwo (koszty operacyjne) na wydatek kapitałowy w formie droższego pojazdu. Termin odbioru ustalony mam gdzieś na wrzesień-październik, jeszcze może się okazać, że kontrakt nie będzie przedłużony i będę odwoływał zamówienie. Cóż, przynajmniej mogę to zrobić bez opłat. Co prawda po zakończeniu formalności związanych z wcześniejszym wykupem z leasingu okazało się, że niepotrzebnie to zrobiłem, no ale człowiek uczy się na błędach. Nie było to na szczęście kosztowne, tylko nieco niepotrzebnych formalności.
+
+Wróciła z przytupem kategoria "podatki". Cóż, jest przychód, są podatki, tak to działa i tyle mam do powiedzenia. Za to "odsetki" są już pewnym problemem. To głównie koszt zakupu ETFów na lewarze/dźwigni — rok temu koszt tego wynosił około 0.5% i był prostą decyzją, ale dziś, kiedy zbliża się do 7%, to już coś innego. Stopniowo zamykam ten kredyt, nie zmniejszając rozmiaru moich inwestycji — po prostu obecnie nowe wpłaty idą tylko na spłatę. Tam też ma trafić spodziewany niedługo zwrot podatku z racji IP Box. Swoją drogą, dowiedziałem się, że wytyczna Ministerstwa Finansów obecnie zakłada automatyczne (poniżej dwóch tygodni) procesowanie zwrotów podatku poniżej 5 tysięcy oraz sprawdzanie wszystkich powyżej. Mój zwrot jak co roku zasłużył na osobistą korespondencję i wyjaśnienia. Jeszcze do mnie nie dotarł.
+
+Odsetki od kredytu hipotecznego też mocno skoczyły - z 30 EUR rok temu, do 150 EUR teraz. W związku z tym (oraz zainspirowany kolejnymi wyrokami sądów) postanowiłem wytoczyć grube działa i zatrudniłem kancelarię prawniczą celem sprawdzenia, czy może da się mój kredyt walutowy unieważnić. Frankowcy mogą, to ja też.
+<iframe markdown="0" title="Podsumowanie wydatków w marcu 2023" src="/assets/2023-04-15/wydatki-marzec-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Przychód w marcu to 60 tysięcy złotych. Ładnie, chociaż uwzględniając inflację, to mniej, niż zarabiałem już kilka lat temu. Trzeba by było teraz podbić stawkę.
+<iframe markdown="0" title="Podsumowanie przychodów w marcu 2023" src="/assets/2023-04-15/przychody-marzec-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku. Całkowity wynik na koniec marca to 2 597 335 zł, względem początku miesiąca na 2 566 392 zł. Na plusie 31 tysiące złotych, z tego różnica między przychodem a wydatkami odpowiada za 29 tysiące złotych wzrostu wartości, a za tylko 2 tysiące to sytuacja na giełdzie. Jeden z okresów, kiedy inwestycje nie dostarczają emocji, trzeba tylko zakasać rękawy, pracować i trzymać kurs.
+<iframe markdown="0" title="Podsumowanie majątku w marcu 2023" src="/assets/2023-04-15/całkowity-majątek-marzec-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Co do tytułu bloga: z FIRE przed czterdziestką nic oczywiście nie wyjdzie. Natomiast zgodnie z dość prostą symulacją liniową, jeśli bym trzymał wydatki miesięczne na poziomie około 17 700 zł, niezależność osiągnę do czterdziestych piątych urodzin. To nadal piękny cel i mam nadzieję — osiągalny.
