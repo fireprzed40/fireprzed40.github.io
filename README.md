@@ -3,6 +3,6 @@
 
 Testowanie lokalnie:
 
-`bundle exec jekyll serve --force_polling --livereload`
+`bundle exec jekyll serve --force_polling --livereload --future`
 
 To uruchomi Jekylla z odświeżaniem na żywo, strona będzie dostępna pod http://localhost:4000/

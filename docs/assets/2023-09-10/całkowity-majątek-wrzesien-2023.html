@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html dir='auto'>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@media (prefers-color-scheme: dark) {body {color: #000; background-color: #fff;}}
+h3 { font-family: "Segoe UI", sans-serif; font-size: 15pt; font-weight: bold;  }
+a { font-family: "Segoe UI", sans-serif; font-size: 10pt; font-style: italic;  }
+body, p, table, tr, td { vertical-align: top; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+tr.alternate-row { background: #ffffff }
+tr { page-break-inside: avoid !important;}
+html, body { height: 100vh; margin-top: 0px; margin-bottom: 0px; margin-left: 8px; margin-right: 8px; }
+td, th { border-color: grey }
+th.column-heading-left { text-align: left; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+th.column-heading-center { text-align: center; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+th.column-heading-right { text-align: right; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.highlight {background-color:#e1e1e1}td.neg { color: red;  }
+td.number-cell, td.total-number-cell { text-align: right; white-space: nowrap; }
+td.date-cell { white-space: nowrap; }
+td.anchor-cell { white-space: nowrap; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.number-cell { font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.number-header { text-align: right; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.text-cell { font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.total-number-cell { font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+td.total-label-cell { font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+td.centered-label-cell { text-align: center; font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+sub { top: 0.4em; }
+sub, sup { vertical-align: baseline; position: relative; top: -0.4em; }
+@media print { html, body { height: unset; }}
+</style></head><body bgcolor="#ffffff"><script language="javascript" type="text/javascript" src="/assets/gnucash/Chart.bundle.min.js"></script>
+<h3 style='display:none'></h3><div style='width:100.0%;height:100.0%;'>
+<a id='jump-chart183' href='' style='display:none'></a>
+<canvas id="chart183"></canvas>
+</div>
+<script id='script-chart183'>
+var curriso = "PLN";
+var currsym = "zł";
+var formsty = "currency";
+var chartid = "chart183";
+var jumpid = 'jump-chart183';
+var loadstring = "Load";
+var chartjsoptions = {
+  "type" : "line",
+  "data" : 
+  {
+    "labels" : [ "01/01/2022", "01/02/2022", "01/03/2022", "01/04/2022", "01/05/2022", "01/06/2022", "01/07/2022", "01/08/2022", "01/09/2022", "01/10/2022", "01/11/2022", "01/12/2022", "01/01/2023", "01/02/2023", "01/03/2023", "01/04/2023", "01/05/2023", "01/06/2023", "01/07/2023", "01/08/2023", "01/09/2023", "30/09/2023"],
+    "datasets" : [ 
+      {
+        "urls" : "gnc-report:id=42#",
+        "borderWidth" : 1.5,
+        "pointRadius" : 3,
+        "fill" : false,
+        "data" : [ 3082283.18, 3134880.58, 3293930.54, 3271270.02, 3263860.52, 3213795.51, 3300112.98, 3171508.82, 3166573.97, 3132963.9, 3130480.6, 3126660.33, 3079474.34, 3075186.27, 3120814.96, 3125260.51, 3128449.28, 3132516.01, 3137702.59, 3160909.34, 3289386.76, 3287629.94],
+        "label" : "Assets",
+        "backgroundColor" : "#0074D9",
+        "borderColor" : "#0074D9"
+      }, 
+      {
+        "urls" : "gnc-report:id=43#",
+        "borderWidth" : 1.5,
+        "pointRadius" : 3,
+        "fill" : false,
+        "data" : [ 200236.67, 346413.07, 547710.11, 551451.69, 568000.84, 559665.13, 570027.97, 567329.51, 569629.58, 569361.32, 550989.54, 551286.92, 551658.14, 555819.87, 554439.52, 527955.75, 406083.97, 403675.83, 400918.65, 400772.68, 503049.69, 504398.48],
+        "label" : "Liabilities",
+        "backgroundColor" : "#FF4136",
+        "borderColor" : "#FF4136"
+      }, 
+      {
+        "borderWidth" : 1.5,
+        "pointRadius" : 3,
+        "fill" : false,
+        "data" : [ 2882046.51, 2788467.51, 2746220.43, 2719818.33, 2695859.68, 2654130.38, 2730085.01, 2604179.31, 2596944.39, 2563602.58, 2579491.06, 2575373.41, 2527816.2, 2519366.4, 2566375.44, 2597304.76, 2722365.31, 2728840.18, 2736783.94, 2760136.66, 2786337.07, 2783231.46],
+        "label" : "Net Worth",
+        "backgroundColor" : "#2ECC40",
+        "borderColor" : "#2ECC40"
+      }]
+  },
+  "options" : 
+  {
+    "maintainAspectRatio" : false,
+    "animation" : 
+    {
+      "duration" : 0
+    },
+    "chartArea" : 
+    {
+      "backgroundColor" : "#fffdf6"
+    },
+    "legend" : 
+    {
+      "position" : "right",
+      "reverse" : false,
+      "labels" : 
+      {
+        "fontColor" : "black"
+      }
+    },
+    "elements" : 
+    {
+      "line" : 
+      {
+        "tension" : 0
+      },
+      "point" : 
+      {
+        "pointStyle" : false
+      }
+    },
+    "tooltips" : 
+    {
+      "callbacks" : 
+      {
+        "label" : false
+      }
+    },
+    "scales" : 
+    {
+      "xAxes" : [ 
+        {
+          "display" : true,
+          "type" : "category",
+          "distribution" : "series",
+          "offset" : true,
+          "gridLines" : 
+          {
+            "display" : true,
+            "lineWidth" : 1.5
+          },
+          "scaleLabel" : 
+          {
+            "display" : true,
+            "labelString" : ""
+          },
+          "ticks" : 
+          {
+            "maxRotation" : 30
+          }
+        }, 
+        {
+          "position" : "top",
+          "ticks" : 
+          {
+            "display" : false
+          },
+          "gridLines" : 
+          {
+            "display" : false,
+            "drawTicks" : false
+          }
+        }],
+      "yAxes" : [ 
+        {
+          "stacked" : false,
+          "display" : true,
+          "gridLines" : 
+          {
+            "display" : true,
+            "lineWidth" : 1.5
+          },
+          "scaleLabel" : 
+          {
+            "display" : 1.5,
+            "labelString" : "PLN"
+          },
+          "ticks" : 
+          {
+            "beginAtZero" : false
+          }
+        }, 
+        {
+          "position" : "right",
+          "ticks" : 
+          {
+            "display" : false
+          },
+          "gridLines" : 
+          {
+            "display" : false,
+            "drawTicks" : false
+          }
+        }]
+    },
+    "title" : 
+    {
+      "display" : true,
+      "fontStyle" : "",
+      "text" : [ "Net Worth Linechart", "01/01/2022 to 30/09/2023"]
+    }
+  }
+};
+
+
+// The following snippet from MDN
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString
+var toLocaleStringSupportsOptions = (typeof Intl == 'object' && Intl && typeof Intl.NumberFormat == 'function');
+
+// format a number e.g. 2.5 into monetary e.g. "$2.50" or other style formsty
+function numformat(amount) {
+  if (toLocaleStringSupportsOptions) {
+      return amount.toLocaleString(undefined, {style:formsty, currency:curriso});
+  } else if (formsty == 'percent') {
+      return (100 * amount).toLocaleString() + '%';
+  } else if (formsty == 'currency') {
+      return currsym + amount.toLocaleString();
+  } else {
+      return amount.toLocaleString();
+  }
+}
+chartjsoptions.options.scales.yAxes[0].ticks.callback = yAxisDisplay;
+function yAxisDisplay(value,index,values) { return numformat(value); };
+chartjsoptions.options.scales.xAxes[0].ticks.callback = xAxisDisplay;
+function xAxisDisplay(value,index,values) { return chartjsoptions.data.labels[index]; };
+chartjsoptions.options.tooltips.callbacks.label = tooltipLabel;
+chartjsoptions.options.tooltips.callbacks.title = tooltipTitle;
+
+function tooltipLabel(tooltipItem,data) {
+  var datasetLabel = data.datasets[tooltipItem.datasetIndex].label || 'Other';
+  var label = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+  switch (typeof(label)) {
+    case 'number':
+      return datasetLabel + ': ' + numformat(label);
+    default:
+      return '';
+  }
+}
+
+function tooltipTitle(array,data) {
+  return data.labels[array[0].index]; }
+
+// draw the background color
+Chart.pluginService.register({
+  beforeDraw: function (chart, easing) {
+    if (chart.config.options.chartArea && chart.config.options.chartArea.backgroundColor) {
+      var ctx = chart.chart.ctx;
+      var chartArea = chart.chartArea;
+      ctx.save();
+      ctx.fillStyle = chart.config.options.chartArea.backgroundColor;
+      ctx.fillRect(chartArea.left, chartArea.top, chartArea.right - chartArea.left, chartArea.bottom - chartArea.top);
+      ctx.restore();
+    }
+  }
+})
+
+// copy font info from css into chartjs.
+bodyStyle = window.getComputedStyle (document.querySelector ('body'));
+Chart.defaults.global.defaultFontSize = parseInt (bodyStyle.fontSize);
+Chart.defaults.global.defaultFontFamily = bodyStyle.fontFamily;
+Chart.defaults.global.defaultFontStyle = bodyStyle.fontStyle;
+
+titleStyle = window.getComputedStyle (document.querySelector ('h3'));
+chartjsoptions.options.title.fontSize = parseInt (titleStyle.fontSize);
+chartjsoptions.options.title.fontFamily = titleStyle.fontFamily;
+chartjsoptions.options.title.fontStyle = titleStyle.fontStyle;
+
+document.getElementById(chartid).onclick = function(evt) {
+  var activepoints = myChart.getElementAtEvent(evt);
+  var anchor = document.getElementById(jumpid);
+  switch (activepoints.length)  {
+    case 0:
+      anchor.href = '';
+      anchor.textContent = '';
+      anchor.style = 'display: none';
+      break;
+    default:
+      var index = activepoints[0]['_index'];
+      var datasetIndex = activepoints[0]['_datasetIndex'];
+      var datasetURLs = myChart.data.datasets[datasetIndex].urls;
+      // console.log('index=',index,'datasetIndex=',datasetIndex);
+      anchor.style = 'position:absolute; top:' + (evt.clientY - 30) + 'px; left:' + (evt.clientX - 20) + 'px; display: block; padding: 5px; border-radius: 5px; background: #4E9CAF; text-align:center; color:white; z-index: 999;';
+      switch (typeof(datasetURLs)) {
+        case 'string':
+          anchor.href = datasetURLs;
+          anchor.textContent = loadstring;
+          break;
+        case 'object':
+          anchor.href = datasetURLs[index];
+          anchor.textContent = loadstring;
+          break;
+        default:
+          anchor.href = '';
+          anchor.textContent = '';
+          anchor.style = 'display: none';
+      }
+  }
+}
+
+var myChart = new Chart(chartid, chartjsoptions);
+</script></body>
+</html>
