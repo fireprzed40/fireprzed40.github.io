@@ -1,0 +1,21 @@
+---
+layout: single
+title:  "Pół roku minęło - wrzesień 2023"
+date:   2023-08-10 18:00:00 +0100
+tag: "raport wydatków"
+header:
+    teaser: /assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png
+---
+Pół roku od poprzedniego wpisu, blog się zrobił strasznie nieregularny. Może chociaż to sensowy okres — faktycznie półrocze — żeby znów spojrzeć na wyniki. Nic szczególnie mądrego do napisania o wynikach inwestycji nie mam — sierpień i wrzesień straciły dość dużą część wcześniejszego odbicia, za to złotówka szaleje i spada. Za tydzień pewnie dopiero będzie spektakl na całego z kursem, ale ciężko zgadywać, w którą stronę. W każdym razie wynik za pół roku w EUR jest **+6.68%** w górę, w skali całego roku **+11.52%**. Jedno i drugie zdecydowanie wspaniałe wyniki.
+[![Wyniki inwestycji (w EUR) w marcu 2023](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png)](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023.png)
+
+Wykresy tym razem półroczne, a nie miesięczne. W wydatkach, jak zawsze z kontraktem w trakcie, prowadzą podatki. Dalej mamy prezenty (ślub w bliskiej rodzinie to kosztowna sprawa), czynsz (głównie koszty hoteli/AirBnB na kilku wyjazdach — w tym półroczu było 10 dni w Londynie, majówka w hotelu w puszczy, parę wyjazdów do Niemiec, kilka w polskie góry), pies (dwa duże zabiegi weterynaryjne pod narkozą). Dalej samochód co tylko w kwocie 17 tysięcy wymaga nieco wyjaśnienia. Wpłata własna na nowe auto elektryczne wyniosła prawie 100 tysięcy, natomiast (tak jak z poprzednimi samochodami) nie księguję jej jako koszt od razu. Samochód jest środkiem stałym (czyli czymś, co można odsprzedać) z dość prostą do śledzenia deprecjacją (utratą wartości) i dopiero to śledzę jako faktyczny wydatek. Na razie w kategorię kosztów samochodowych trafiło ubezpieczenie, opłaty rejestracyjne, wyposażenie dodatkowe typu domowa ładowarka. Oczywiście są w tym też wydatki użytkowe typu opłaty autostradowe, za parkowanie czy za ładowanie na publicznych ładowarkach. Dalej "odsetki" to kredyt margin (sukcesywnie teraz spłacany, ale nadal kosztujący ponad 250 dolarów miesięcznie), kredyt hipoteczny w euro (podwyższona stopa zwiększyła wartość odsetek pięciokrotnie w stosunku do poprzedniego roku) no i odsetki od leasingu na nowy samochód. Te aktualnie wynoszą 1600 zł miesięcznie i bolą (ale będą szybko spadać). Ach i jeszcze 1 100 zł odsetek od nowego kredytu o którym za chwilę.
+<iframe markdown="0" title="Podsumowanie wydatków przed wrześniem 2023" src="/assets/2023-10-10/wydatki-wrzesien-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Przychód średnio 74 tysiące na miesiąc. Mocno podbity przez zwrot podatku za 2022 z tytułu IP Box (za ten rok będzie mniejszy). Kontrakt idzie dobrze, robota ciekawa, klient zadowolony. Byle tylko mu się budżet nie skończył.
+<iframe markdown="0" title="Podsumowanie przychodów przed wrześniem 2023" src="/assets/2023-10-10/przychody-wrzesien-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Na koniec najważniejszy, w dłuższej perspektywie, wykres: całkowita wartość majątku. Całkowity wynik na koniec września to 2 815 357 zł, względem początku półrocza na 2 597 304 zł. Na plusie 218 tysiące złotych, z tego różnica między przychodem a wydatkami odpowiada za 192 tysiące złotych wzrostu wartości, a za 26 tysiące to sytuacja na giełdzie (oraz kurs złotówki). Nie tak dużo, ale to już 4 i pół tysiąca przychodu z giełdy miesięcznie. Na wykresie jest też wyraźny wzrost zadłużenia w sierpniu. To pożyczka wzięta na rzecz krewnego. Nie polecam, ogólnie, jako ruchów finansowych, takich zagrań, ale jest mocno pewny jej zwrotu. Natomiast dopóki nie zostanie spłacona widnieje na moim koncie (i potencjalnie, w razie niewypłacalności, mnie obciąża).
+<iframe markdown="0" title="Podsumowanie majątku we wrześniu 2023" src="/assets/2023-10-10/całkowity-majątek-wrzesien-2023.html" width="100%" height="450px" frameborder="0"></iframe>
+
+Co do tytułu bloga: z FIRE przed czterdziestką nic oczywiście nie wyjdzie. Natomiast zgodnie z dość prostą symulacją liniową, jeśli bym trzymał wydatki miesięczne na poziomie około 16 700 zł, niezależność osiągnę do czterdziestych piątych urodzin. Trzeba zaznaczyć, że pół roku temu ta sama symulacja liniowa pozwalała na wydatki w kwocie 17 700 zł, czyli kierunek nie jest dobry.
