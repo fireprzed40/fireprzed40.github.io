@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html dir='auto'>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@media (prefers-color-scheme: dark) {body {color: #000; background-color: #fff;}}
+h3 { font-family: "Segoe UI", sans-serif; font-size: 15pt; font-weight: bold;  }
+a { font-family: "Segoe UI", sans-serif; font-size: 10pt; font-style: italic;  }
+body, p, table, tr, td { vertical-align: top; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+tr.alternate-row { background: #ffffff }
+tr { page-break-inside: avoid !important;}
+html, body { height: 100vh; margin-top: 0px; margin-bottom: 0px; margin-left: 8px; margin-right: 8px; }
+td, th { border-color: grey }
+th.column-heading-left { text-align: left; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+th.column-heading-center { text-align: center; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+th.column-heading-right { text-align: right; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.highlight {background-color:#e1e1e1}td.neg { color: red;  }
+td.number-cell, td.total-number-cell { text-align: right; white-space: nowrap; }
+td.date-cell { white-space: nowrap; }
+td.anchor-cell { white-space: nowrap; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.number-cell { font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.number-header { text-align: right; font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.text-cell { font-family: "Segoe UI", sans-serif; font-size: 10pt;  }
+td.total-number-cell { font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+td.total-label-cell { font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+td.centered-label-cell { text-align: center; font-family: "Segoe UI", sans-serif; font-size: 12pt; font-weight: bold;  }
+sub { top: 0.4em; }
+sub, sup { vertical-align: baseline; position: relative; top: -0.4em; }
+@media print { html, body { height: unset; }}
+</style></head><body bgcolor="#ffffff"><script language="javascript" type="text/javascript" src="/assets/gnucash/Chart.bundle.min.js"></script>
+<h3 style='display:none'></h3><div style='width:100.0%;height:100.0%;'>
+<a id='jump-chart177' href='' style='display:none'></a>
+<canvas id="chart177"></canvas>
+</div>
+<script id='script-chart177'>
+var curriso = "PLN";
+var currsym = "zł";
+var formsty = "currency";
+var chartid = "chart177";
+var jumpid = 'jump-chart177';
+var loadstring = "Load";
+var chartjsoptions = {
+  "type" : "bar",
+  "data" : 
+  {
+    "labels" : [ "01/11/2014", "01/12/2014", "01/01/2015", "01/02/2015", "01/03/2015", "01/04/2015", "01/05/2015", "01/06/2015", "01/07/2015", "01/08/2015", "01/09/2015", "01/10/2015", "01/11/2015", "01/12/2015", "01/01/2016", "01/02/2016", "01/03/2016", "01/04/2016", "01/05/2016", "01/06/2016", "01/07/2016", "01/08/2016", "01/09/2016", "01/10/2016", "01/11/2016", "01/12/2016", "01/01/2017", "01/02/2017", "01/03/2017", "01/04/2017", "01/05/2017", "01/06/2017", "01/07/2017", "01/08/2017", "01/09/2017", "01/10/2017", "01/11/2017", "01/12/2017", "01/01/2018", "01/02/2018", "01/03/2018", "01/04/2018", "01/05/2018", "01/06/2018", "01/07/2018", "01/08/2018", "01/09/2018", "01/10/2018", "01/11/2018", "01/12/2018", "01/01/2019", "01/02/2019", "01/03/2019", "01/04/2019", "01/05/2019", "01/06/2019", "01/07/2019", "01/08/2019", "01/09/2019", "01/10/2019", "01/11/2019", "01/12/2019", "01/01/2020", "01/02/2020", "01/03/2020", "01/04/2020", "01/05/2020", "01/06/2020", "01/07/2020", "01/08/2020", "01/09/2020", "01/10/2020", "01/11/2020", "01/12/2020", "01/01/2021", "01/02/2021", "01/03/2021", "01/04/2021", "01/05/2021", "01/06/2021", "01/07/2021", "01/08/2021", "01/09/2021", "01/10/2021", "01/11/2021", "01/12/2021", "01/01/2022", "01/02/2022", "01/03/2022", "01/04/2022", "01/05/2022", "01/06/2022", "01/07/2022", "01/08/2022", "01/09/2022", "01/10/2022", "01/11/2022", "01/12/2022", "01/01/2023", "01/02/2023", "01/03/2023", "01/04/2023", "01/05/2023", "01/06/2023", "01/07/2023", "01/08/2023", "01/09/2023", "01/10/2023", "01/11/2023"],
+    "datasets" : [ 
+      {
+        "urls" : "gnc-report:id=9#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 381.55, 605.26, 337.5, 220.06, 712.92, 208.05, 555.17, 306.12, 431.06, 1193.68, 359.51, 354.88, 369.24, 710.24, 450.34, 648.55, 862.98, 1278.4, 813.76, 842.51, 724.92, 577.1, 805.93, 458.67, 383.7, 691.85, 1095.91, 565.46, 512.44, 1054.19, 800.29, 855.26, 727.71, 886.71, 485.6, 834.89, 620.2, 398.69, 894.97, 635.27, 362.05, 425.33, 480.4, 584.59, 442.16, 691.32, 453.6, 684.05, 314.34, 933.5, 410.82, 193.27, 493.01, 357.88, 452.45, 237.47, 778.83, 188.67, 200.76, 400.52, 532.49, 589.97, 444.73, 456.36, 603.05, 3.69, 160, 621.83, 458.26, 925.76, 909.66, 828.78, 516.02, 287.77, 276.57, 136.6, 451.32, 193.33, 169.89, 820.47, 494.92, 1273.99, 1158.33, 1028.86, 1460.13, 894.25, 777.93, 246.39, 1750.31, 577.74, 918.2, 2645.63, 2005.41, 1061.43, 668.78, 1272.38, 1030.95, 401.51, 788.94, 632.15, 695.95, 600.93, 1695.32, 847.29, 873.42, 2775.12, 498.72, 366.09, 43.14],
+        "label" : "Paliwo",
+        "backgroundColor" : "#FF4136",
+        "borderColor" : "#FF4136"
+      }, 
+      {
+        "urls" : "gnc-register:acct-guid=8e85da0221d703c30d04f1fcd850793f#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 8864, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5164, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3608, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4000, 0, 0, 0, 0, 0, 0, 4000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1343.02, 1345.15, 1343.74, 1345.36, 1349.54, 1354.38, 1356.95, 1359.19, 4933.77, 1372.99, 1382.39, 1396.06, 1409.21, 1423.44, 1437.76, 1453.14, 1468.18, 7008.35, 0, 0, 0, 0, 0, 0, 0, 0],
+        "label" : "Deprecjacja PLN",
+        "backgroundColor" : "#FF851B",
+        "borderColor" : "#FF851B"
+      }, 
+      {
+        "urls" : "gnc-register:acct-guid=3b1c05e2cd24e5ddcd7a2e364c06ae23#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 1569, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1785, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2454, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1547, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1111, 0, 0, 0, 0, 0, 3147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2900, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2627, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2528, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 631, 5694, 102.09, 102.09, 0],
+        "label" : "Ubezpieczenie samochodu PLN",
+        "backgroundColor" : "#FFDC00",
+        "borderColor" : "#FFDC00"
+      }, 
+      {
+        "urls" : "gnc-register:acct-guid=03b17d2f63e172dee3502e596c2b032d#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 0, 0, 0, 0, 0, 760.44, 0, 0, 0, 0, 0, 0, 0, 204, 0, 1016.72, 0, 0, 0, 0, 0, 0, 905.78, 0, 0, 289.01, 0, 0, 0, 0, 0, 1390, 458.52, 0, 0, 913.84, 0, 50.43, 0, 0, 0, 934.5, 0, 0, 121.04, 0, 0, 0, 0, 443.64, 0, 996, 1595.93, 0, 0, 0, 807.15, 0, 0, 0, 0, 0, 0, 0, 120.05, 0, 0, 991.42, 0, 0, 0, 0, 120.05, 0, 0, 0, 0, 0, 1323.06, 0, 0, 0, 0, 109, 0, 0, 1094.67, 0, 0, 1546, 827.26, 208, 99, 1370.41, 0, 0, 0, 0, 0, 0, 130, 0, 0, 2249.04, 120, 0, 0, 150],
+        "label" : "Naprawy i utrzymanie PLN",
+        "backgroundColor" : "#2ECC40",
+        "borderColor" : "#2ECC40"
+      }, 
+      {
+        "urls" : "gnc-register:acct-guid=1136c5d0957d56206cabbf047d0c37b1#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1839, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 363.94, 357.28, 350.57, 343.34, 336.56, 329.76, 322.91, 316.02, 308.65, 281.19, 252.9, 230.15, 223.96, 216.97, 211.17, 205.34, 199.49, 193.61, 187.37, 181.44, 175.5, 169.21, 163.21, 157.2, 151.14, 145.07, 138.96, 141.8, 153.27, 159.04, 159.92, 159.98, 166.11, 174.39, 175.85, 173.98, 169.78, 156.41, 144.67, 130.76, 116.96, 100.82, 85.45, 70.27, 0, 0, 0, 0, 0, 1598.45, 1699.3, 0],
+        "label" : "Odsetki od kredytu na samochód",
+        "backgroundColor" : "#0074D9",
+        "borderColor" : "#0074D9"
+      }, 
+      {
+        "urls" : "gnc-report:id=10#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 57, 26, 97, 180, 152.2, 132.2, 87, 303.8, 60.14, 109.32, 127, 323.09, 60, 226.8, 101, 74, 148.8, 84, 21, 105, 70, 77, 42, 119, 28, 105, 56, 133, 0, 0, 77, 42, 0, 0, 181.28, 0, 0, 10, 0, 0, 935.83, 102.33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 20.58, 0, 0, 0, 19.9, 0, 64, 17.48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4.31, 0, 0, 0, 0, 65, 174],
+        "label" : "Autostrady i mosty",
+        "backgroundColor" : "#001f3f",
+        "borderColor" : "#001f3f"
+      }, 
+      {
+        "urls" : "gnc-report:id=11#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 148.41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10.51, 36.78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 65, 0, 2, 0, 0, 0, 0, 0, 6.5, 0, 0, 5.5, 13, 0, 0, 4.5, 3.5, 6, 9.5, 6, 0, 0, 0, 0, 5, 0, 66.74, 29.07, 0, 0, 0, 0, 0, 13, 0, 0, 13.76, 16.4, 4, 27.55, 33.33, 3.5, 26.6, 4.38, 1, 89.24, 191.26, 84.1, 19.63, 20.14, 38.13, 5.27, 204.04, 16.7, 12.72, 31.16, 13.35, 181.61, 19.99, 12.35, 9, 222.41, 0, 2],
+        "label" : "Parking",
+        "backgroundColor" : "#85144b",
+        "borderColor" : "#85144b"
+      }, 
+      {
+        "urls" : "gnc-report:id=13#",
+        "fill" : true,
+        "stack" : "default",
+        "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 445.57, 0, 0, 0, 0, 0, 0],
+        "label" : "Wynajem",
+        "backgroundColor" : "#7FDBFF",
+        "borderColor" : "#7FDBFF"
+      }]
+  },
+  "options" : 
+  {
+    "maintainAspectRatio" : false,
+    "animation" : 
+    {
+      "duration" : 0
+    },
+    "chartArea" : 
+    {
+      "backgroundColor" : "#fffdf6"
+    },
+    "legend" : 
+    {
+      "position" : "right",
+      "reverse" : false,
+      "labels" : 
+      {
+        "fontColor" : "black"
+      }
+    },
+    "elements" : 
+    {
+      "line" : 
+      {
+        "tension" : 0
+      },
+      "point" : 
+      {
+        "pointStyle" : false
+      }
+    },
+    "tooltips" : 
+    {
+      "callbacks" : 
+      {
+        "label" : false
+      }
+    },
+    "scales" : 
+    {
+      "xAxes" : [ 
+        {
+          "display" : true,
+          "type" : "category",
+          "distribution" : "series",
+          "offset" : true,
+          "gridLines" : 
+          {
+            "display" : true,
+            "lineWidth" : 1.5
+          },
+          "scaleLabel" : 
+          {
+            "display" : true,
+            "labelString" : ""
+          },
+          "ticks" : 
+          {
+            "maxRotation" : 30
+          },
+          "stacked" : true
+        }, 
+        {
+          "position" : "top",
+          "ticks" : 
+          {
+            "display" : false
+          },
+          "gridLines" : 
+          {
+            "display" : false,
+            "drawTicks" : false
+          }
+        }],
+      "yAxes" : [ 
+        {
+          "stacked" : true,
+          "display" : true,
+          "gridLines" : 
+          {
+            "display" : true,
+            "lineWidth" : 1.5
+          },
+          "scaleLabel" : 
+          {
+            "display" : 1.5,
+            "labelString" : "PLN"
+          },
+          "ticks" : 
+          {
+            "beginAtZero" : false
+          }
+        }, 
+        {
+          "position" : "right",
+          "ticks" : 
+          {
+            "display" : false
+          },
+          "gridLines" : 
+          {
+            "display" : false,
+            "drawTicks" : false
+          }
+        }]
+    },
+    "title" : 
+    {
+      "display" : true,
+      "fontStyle" : "",
+      "text" : [ "Expense Over Time", "01/11/2014 to 30/11/2023"]
+    }
+  }
+};
+
+
+// The following snippet from MDN
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString
+var toLocaleStringSupportsOptions = (typeof Intl == 'object' && Intl && typeof Intl.NumberFormat == 'function');
+
+// format a number e.g. 2.5 into monetary e.g. "$2.50" or other style formsty
+function numformat(amount) {
+  if (toLocaleStringSupportsOptions) {
+      return amount.toLocaleString(undefined, {style:formsty, currency:curriso});
+  } else if (formsty == 'percent') {
+      return (100 * amount).toLocaleString() + '%';
+  } else if (formsty == 'currency') {
+      return currsym + amount.toLocaleString();
+  } else {
+      return amount.toLocaleString();
+  }
+}
+chartjsoptions.options.scales.yAxes[0].ticks.callback = yAxisDisplay;
+function yAxisDisplay(value,index,values) { return numformat(value); };
+chartjsoptions.options.scales.xAxes[0].ticks.callback = xAxisDisplay;
+function xAxisDisplay(value,index,values) { return chartjsoptions.data.labels[index]; };
+chartjsoptions.options.tooltips.callbacks.label = tooltipLabel;
+chartjsoptions.options.tooltips.callbacks.title = tooltipTitle;
+
+function tooltipLabel(tooltipItem,data) {
+  var datasetLabel = data.datasets[tooltipItem.datasetIndex].label || 'Other';
+  var label = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+  switch (typeof(label)) {
+    case 'number':
+      return datasetLabel + ': ' + numformat(label);
+    default:
+      return '';
+  }
+}
+
+function tooltipTitle(array,data) {
+  return data.labels[array[0].index]; }
+
+// draw the background color
+Chart.pluginService.register({
+  beforeDraw: function (chart, easing) {
+    if (chart.config.options.chartArea && chart.config.options.chartArea.backgroundColor) {
+      var ctx = chart.chart.ctx;
+      var chartArea = chart.chartArea;
+      ctx.save();
+      ctx.fillStyle = chart.config.options.chartArea.backgroundColor;
+      ctx.fillRect(chartArea.left, chartArea.top, chartArea.right - chartArea.left, chartArea.bottom - chartArea.top);
+      ctx.restore();
+    }
+  }
+})
+
+// copy font info from css into chartjs.
+bodyStyle = window.getComputedStyle (document.querySelector ('body'));
+Chart.defaults.global.defaultFontSize = parseInt (bodyStyle.fontSize);
+Chart.defaults.global.defaultFontFamily = bodyStyle.fontFamily;
+Chart.defaults.global.defaultFontStyle = bodyStyle.fontStyle;
+
+titleStyle = window.getComputedStyle (document.querySelector ('h3'));
+chartjsoptions.options.title.fontSize = parseInt (titleStyle.fontSize);
+chartjsoptions.options.title.fontFamily = titleStyle.fontFamily;
+chartjsoptions.options.title.fontStyle = titleStyle.fontStyle;
+
+document.getElementById(chartid).onclick = function(evt) {
+  var activepoints = myChart.getElementAtEvent(evt);
+  var anchor = document.getElementById(jumpid);
+  switch (activepoints.length)  {
+    case 0:
+      anchor.href = '';
+      anchor.textContent = '';
+      anchor.style = 'display: none';
+      break;
+    default:
+      var index = activepoints[0]['_index'];
+      var datasetIndex = activepoints[0]['_datasetIndex'];
+      var datasetURLs = myChart.data.datasets[datasetIndex].urls;
+      // console.log('index=',index,'datasetIndex=',datasetIndex);
+      anchor.style = 'position:absolute; top:' + (evt.clientY - 30) + 'px; left:' + (evt.clientX - 20) + 'px; display: block; padding: 5px; border-radius: 5px; background: #4E9CAF; text-align:center; color:white; z-index: 999;';
+      switch (typeof(datasetURLs)) {
+        case 'string':
+          anchor.href = datasetURLs;
+          anchor.textContent = loadstring;
+          break;
+        case 'object':
+          anchor.href = datasetURLs[index];
+          anchor.textContent = loadstring;
+          break;
+        default:
+          anchor.href = '';
+          anchor.textContent = '';
+          anchor.style = 'display: none';
+      }
+  }
+}
+
+var myChart = new Chart(chartid, chartjsoptions);
+</script></body>
+</html>
