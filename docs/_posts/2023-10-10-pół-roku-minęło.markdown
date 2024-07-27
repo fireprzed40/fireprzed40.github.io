@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  "Pół roku minęło - wrzesień 2023"
-date:   2023-08-10 18:00:00 +0100
+date:   2023-10-10 18:00:00 +0100
 tag: "raport wydatków"
 header:
     teaser: /assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png
 ---
 Pół roku od poprzedniego wpisu, blog się zrobił strasznie nieregularny. Może chociaż to sensowy okres — faktycznie półrocze — żeby znów spojrzeć na wyniki. Nic szczególnie mądrego do napisania o wynikach inwestycji nie mam — sierpień i wrzesień straciły dość dużą część wcześniejszego odbicia, za to złotówka szaleje i spada. Za tydzień pewnie dopiero będzie spektakl na całego z kursem, ale ciężko zgadywać, w którą stronę. W każdym razie wynik za pół roku w EUR jest **+6.68%** w górę, w skali całego roku **+11.52%**. Jedno i drugie zdecydowanie wspaniałe wyniki.
-[![Wyniki inwestycji (w EUR) w marcu 2023](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png)](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023.png)
+[![Wyniki inwestycji (w EUR) we wrześniu 2023](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png)](/assets/2023-10-10/wyniki-inwestycji-wrzesien-2023.png)
 
 Wykresy tym razem półroczne, a nie miesięczne. W wydatkach, jak zawsze z kontraktem w trakcie, prowadzą podatki. Dalej mamy prezenty (ślub w bliskiej rodzinie to kosztowna sprawa), czynsz (głównie koszty hoteli/AirBnB na kilku wyjazdach — w tym półroczu było 10 dni w Londynie, majówka w hotelu w puszczy, parę wyjazdów do Niemiec, kilka w polskie góry), pies (dwa duże zabiegi weterynaryjne pod narkozą). Dalej samochód co tylko w kwocie 17 tysięcy wymaga nieco wyjaśnienia. Wpłata własna na nowe auto elektryczne wyniosła prawie 100 tysięcy, natomiast (tak jak z poprzednimi samochodami) nie księguję jej jako koszt od razu. Samochód jest środkiem stałym (czyli czymś, co można odsprzedać) z dość prostą do śledzenia deprecjacją (utratą wartości) i dopiero to śledzę jako faktyczny wydatek. Na razie w kategorię kosztów samochodowych trafiło ubezpieczenie, opłaty rejestracyjne, wyposażenie dodatkowe typu domowa ładowarka. Oczywiście są w tym też wydatki użytkowe typu opłaty autostradowe, za parkowanie czy za ładowanie na publicznych ładowarkach. Dalej "odsetki" to kredyt margin (sukcesywnie teraz spłacany, ale nadal kosztujący ponad 250 dolarów miesięcznie), kredyt hipoteczny w euro (podwyższona stopa zwiększyła wartość odsetek pięciokrotnie w stosunku do poprzedniego roku) no i odsetki od leasingu na nowy samochód. Te aktualnie wynoszą 1600 zł miesięcznie i bolą (ale będą szybko spadać). Ach i jeszcze 1 100 zł odsetek od nowego kredytu o którym za chwilę.
 <iframe markdown="0" title="Podsumowanie wydatków przed wrześniem 2023" src="/assets/2023-10-10/wydatki-wrzesien-2023.html" width="100%" height="450px" frameborder="0"></iframe>
