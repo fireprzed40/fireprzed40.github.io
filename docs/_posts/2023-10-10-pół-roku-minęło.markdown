@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Pół roku minęło - wrzesień 2023"
-date:   2023-08-10 18:00:00 +0100
+date:   2023-10-10 18:00:00 +0100
 tag: "raport wydatków"
 header:
     teaser: /assets/2023-10-10/wyniki-inwestycji-wrzesien-2023_s.png
